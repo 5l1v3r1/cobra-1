@@ -21,10 +21,6 @@
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Name: cobra.py
-# Original Author: Simon Descarpentries
-# Modified By: Haroon Awan
-# Licence: EULA
 
 import argparse, os, sys, threading
 from sys import argv, stderr

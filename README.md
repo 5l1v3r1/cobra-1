@@ -12,7 +12,8 @@ crawler for metadata
 2. Download and run main.sh for program interface
 
 # Depedancies
-1. This software needs exiftool, it will automatically collect once installer.sh is run
+1. This software will collect all depedencies automatically once installer.sh is run
+1. Install Python3
 
 # Contact
 mrharoonawan@gmail.com
